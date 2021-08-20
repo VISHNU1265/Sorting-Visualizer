@@ -7,3 +7,8 @@ https://user-images.githubusercontent.com/89158929/130247537-80d89244-f226-48ad-
   - Merge Sort
   - Selection Sort
   - Bubble Sort
+### Technologies Used 
+  - HTML
+  - CSS
+  - BootStrap
+  - JS
