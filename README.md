@@ -1,2 +1,7 @@
 # Sorting Visualizer
-A Sorting Visualizer which visualizes sorting algorithms (Merge Sort, Quick Sort, Bubble Sort, Selection Sort)
+
+# Algorithms Implemented 
+  -> Quick Sort 
+  -> Merge Sort
+  -> Selection Sort
+  -> Bubble Sort
