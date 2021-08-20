@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 # Algorithms Implemented 
-  -> Quick Sort 
-  -> Merge Sort
-  -> Selection Sort
-  -> Bubble Sort
+  - Quick Sort 
+  - Merge Sort
+  - Selection Sort
+  - Bubble Sort
