@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-# Algorithms Implemented 
+### Algorithms Implemented 
   - Quick Sort 
   - Merge Sort
   - Selection Sort
