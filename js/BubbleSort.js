@@ -15,8 +15,6 @@ async function bubbleSort(){
         ele[ele.length-i-1].style.backgroundColor="green";
     }
     ele[0].style.backgroundColor="green";
-
-
 }
 
 let bubbleSortButton = document.querySelector('#bubble-sort-btn');
