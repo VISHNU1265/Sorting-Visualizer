@@ -3,6 +3,7 @@ let array;
 let arraySize;
 let speed=1;
 
+
 //disabling all sorting buttons
 let disableButtons = function () {
     document.querySelector('#selection-sort-btn').disabled=true;
